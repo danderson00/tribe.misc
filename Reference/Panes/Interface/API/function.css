@@ -1,0 +1,13 @@
+﻿.function h1 .returns {
+    float: right;
+    font-weight: normal;
+}
+
+.function h1 .returns .type {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.function .name {
+    font-size: 1.2em;
+}

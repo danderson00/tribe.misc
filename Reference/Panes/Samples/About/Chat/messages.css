@@ -1,0 +1,8 @@
+﻿.messages {
+    list-style: none;
+    padding: 0;
+}
+
+.messages li {
+    padding: 5px;
+}
