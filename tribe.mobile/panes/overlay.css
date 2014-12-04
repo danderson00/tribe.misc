@@ -1,0 +1,6 @@
+﻿.overlay {
+    display: none;
+    overflow: hidden;
+    z-index: 100;
+    padding-top: 0 !important;
+}
